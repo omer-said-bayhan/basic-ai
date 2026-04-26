@@ -1,0 +1,17 @@
+
+
+
+{
+  "_comment": "burada kendi sensörlerinizi ve tahmini kalan ömürlerini yazıyorsunuz sırayla 4 farklı sensorun degerleri  bu sekilde ise kalan ömürü nedir diye daha sonrada kod bunu öğreniyor",
+
+
+  "veriler": [
+    {"sensorler": [85.5, 0.02, 101.3, 3000], "kalan_omur": 150},
+    {"sensorler": [90.2, 0.05, 105.1, 3200], "kalan_omur": 120},
+    {"sensorler": [110.8, 0.15, 115.4, 3800], "kalan_omur": 40},
+    {"sensorler": [125.1, 0.45, 130.0, 4500], "kalan_omur": 5},
+    {"sensorler": [80.0, 0.01, 100.0, 2800], "kalan_omur": 200},
+    {"sensorler": [115.0, 0.30, 120.0, 4000], "kalan_omur": 15}
+  ]
+}
+

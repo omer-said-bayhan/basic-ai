@@ -1,0 +1,18 @@
+{
+  "_comment": "burada kendi çözdüğün kitapların cözduğu soru sayısı ve veririmi 1 mat 2 edb 3 sosyal 4 fen",
+
+
+  "veriler": [
+    {"cozulen_sorular": [100,100,100,100], "verim":100},
+    {"cozulen_sorular": [70,80,65,85], "verim":74.67},
+    {"cozulen_sorular": [50,40,30,60], "verim":45.33},
+    {"cozulen_sorular": [20,15,5,0], "verim":13.67},
+    {"cozulen_sorular": [0, 0,0, 0], "verim": 0},
+    {"cozulen_sorular": [100,90,90,90], "verim":94},
+    {"cozulen_sorular": [66,88,15,50], "verim": 64.4},
+    {"cozulen_sorular": [15,60,38,97], "verim":44},
+    {"cozulen_sorular": [31,49,47,72], "verim": 44.6},
+    {"cozulen_sorular": [75,50,68,57], "verim": 63.33},
+    {"cozulen_sorular": [21, 38,17, 29], "verim": 27.2}
+  ]
+}
